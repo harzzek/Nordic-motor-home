@@ -9,5 +9,5 @@ public class NordicApplication {
     public static void main(String[] args) {
         SpringApplication.run(NordicApplication.class, args);
     }
-
+ // this is a test
 }
